@@ -1,0 +1,2 @@
+# No external dependencies required for core functionality
+# LLM integration is handled by external nodes (ComfyUI-LLM, Ollama, etc.)
