@@ -1,0 +1,252 @@
+{
+  "Smart Casual": {
+    "name": "Smart Casual",
+    "outfit": "white dress shirt with rolled sleeves, navy blue chinos, brown leather loafers, minimalist silver watch",
+    "style": "smart casual",
+    "vibe": "professional yet relaxed",
+    "category": "Casual",
+    "occasions": ["office casual", "business lunch", "networking event"]
+  },
+  "Weekend Relaxed": {
+    "name": "Weekend Relaxed",
+    "outfit": "heather gray crew neck t-shirt, medium wash denim jeans, white leather sneakers, canvas backpack",
+    "style": "weekend casual",
+    "vibe": "comfortable and effortless",
+    "category": "Casual",
+    "occasions": ["weekend outing", "casual meetup", "shopping"]
+  },
+  "Urban Streetwear": {
+    "name": "Urban Streetwear",
+    "outfit": "black graphic hoodie with bold white logo, black cargo pants with utility pockets, white high-top sneakers, silver chain necklace",
+    "style": "urban streetwear",
+    "vibe": "edgy and modern",
+    "category": "Casual",
+    "occasions": ["street style", "urban exploration", "casual hangout"]
+  },
+  "Summer Casual": {
+    "name": "Summer Casual",
+    "outfit": "light blue short-sleeve linen shirt, beige cotton shorts, tan leather sandals, straw fedora hat",
+    "style": "summer casual",
+    "vibe": "breezy and laid-back",
+    "category": "Casual",
+    "occasions": ["beach outing", "summer party", "outdoor event"]
+  },
+  "Layered Casual": {
+    "name": "Layered Casual",
+    "outfit": "charcoal wool sweater over white t-shirt, dark blue denim jeans, brown suede chelsea boots, leather messenger bag",
+    "style": "layered casual",
+    "vibe": "cozy and stylish",
+    "category": "Casual",
+    "occasions": ["autumn day", "coffee date", "casual work"]
+  },
+  "Business Professional": {
+    "name": "Business Professional",
+    "outfit": "charcoal gray wool blazer, white dress shirt, matching dress pants, black leather oxford shoes, silk pocket square",
+    "style": "business professional",
+    "vibe": "confident and authoritative",
+    "category": "Formal/Business",
+    "occasions": ["business meeting", "presentation", "corporate event"]
+  },
+  "Executive Suit": {
+    "name": "Executive Suit",
+    "outfit": "navy blue three-piece suit with subtle pinstripe, crisp white shirt, burgundy silk tie, black leather cap-toe oxfords, gold cufflinks",
+    "style": "executive formal",
+    "vibe": "powerful and polished",
+    "category": "Formal/Business",
+    "occasions": ["board meeting", "high-level negotiation", "formal business"]
+  },
+  "Smart Business": {
+    "name": "Smart Business",
+    "outfit": "navy blue polo shirt with subtle texture, khaki dress pants, brown leather loafers, leather belt",
+    "style": "smart business",
+    "vibe": "approachable professional",
+    "category": "Formal/Business",
+    "occasions": ["business casual Friday", "client meeting", "office work"]
+  },
+  "Corporate Casual": {
+    "name": "Corporate Casual",
+    "outfit": "light blue oxford dress shirt, gray wool dress pants, dark brown leather brogues, slim leather watch",
+    "style": "corporate casual",
+    "vibe": "refined and professional",
+    "category": "Formal/Business",
+    "occasions": ["office day", "team meeting", "work lunch"]
+  },
+  "Business Elegant": {
+    "name": "Business Elegant",
+    "outfit": "black merino wool turtleneck, charcoal tailored blazer, dark gray dress pants, black leather chelsea boots",
+    "style": "business elegant",
+    "vibe": "sophisticated and modern",
+    "category": "Formal/Business",
+    "occasions": ["creative industry meeting", "gallery opening", "upscale networking"]
+  },
+  "Athleisure": {
+    "name": "Athleisure",
+    "outfit": "black technical joggers, gray performance hoodie, white running sneakers with colored accents, smartwatch",
+    "style": "athleisure",
+    "vibe": "active and comfortable",
+    "category": "Sport/Active",
+    "occasions": ["gym session", "casual outing", "running errands"]
+  },
+  "Sporty Active": {
+    "name": "Sporty Active",
+    "outfit": "moisture-wicking navy athletic t-shirt, black compression leggings, neon green running shoes, fitness tracker",
+    "style": "sporty active",
+    "vibe": "energetic and performance-focused",
+    "category": "Sport/Active",
+    "occasions": ["workout", "marathon", "sports activity"]
+  },
+  "Yoga Casual": {
+    "name": "Yoga Casual",
+    "outfit": "fitted heather gray tank top, black high-waist yoga pants, minimal white sneakers, yoga mat bag",
+    "style": "yoga casual",
+    "vibe": "zen and balanced",
+    "category": "Sport/Active",
+    "occasions": ["yoga class", "wellness retreat", "meditation session"]
+  },
+  "Evening Elegant": {
+    "name": "Evening Elegant",
+    "outfit": "black tailored blazer with satin lapels, dark charcoal dress shirt, slim fit black jeans, black leather chelsea boots",
+    "style": "evening elegant",
+    "vibe": "sophisticated and night-ready",
+    "category": "Evening/Night",
+    "occasions": ["dinner date", "cocktail party", "evening event"]
+  },
+  "Night Out": {
+    "name": "Night Out",
+    "outfit": "black leather jacket with silver hardware, white graphic t-shirt, distressed black slim jeans, black leather boots with buckles",
+    "style": "night out",
+    "vibe": "bold and confident",
+    "category": "Evening/Night",
+    "occasions": ["nightclub", "concert", "party"]
+  },
+  "Cocktail Ready": {
+    "name": "Cocktail Ready",
+    "outfit": "burgundy velvet blazer, crisp white dress shirt with french cuffs, black tailored trousers, cognac leather loafers, silver cufflinks",
+    "style": "cocktail attire",
+    "vibe": "refined and festive",
+    "category": "Evening/Night",
+    "occasions": ["cocktail reception", "holiday party", "upscale social event"]
+  },
+  "Minimalist Fashion": {
+    "name": "Minimalist Fashion",
+    "outfit": "oversized white cotton t-shirt, black tailored trousers with clean lines, white minimal leather sneakers, black leather tote bag",
+    "style": "minimalist fashion",
+    "vibe": "clean and contemporary",
+    "category": "Fashion/Editorial",
+    "occasions": ["fashion event", "art gallery", "editorial shoot"]
+  },
+  "Streetwear Premium": {
+    "name": "Streetwear Premium",
+    "outfit": "black graphic hoodie with bold white logo, black cargo pants with utility pockets, white high-top sneakers, silver chain necklace",
+    "style": "premium streetwear",
+    "vibe": "trendy and statement-making",
+    "category": "Fashion/Editorial",
+    "occasions": ["fashion week", "street style shoot", "influencer event"]
+  },
+  "Vintage Retro": {
+    "name": "Vintage Retro",
+    "outfit": "vintage windbreaker jacket with color blocking, light wash denim jeans, retro white sneakers with colored accents, vintage sunglasses",
+    "style": "vintage retro",
+    "vibe": "nostalgic and playful",
+    "category": "Fashion/Editorial",
+    "occasions": ["themed party", "retro event", "casual fashion shoot"]
+  },
+  "Avant-Garde": {
+    "name": "Avant-Garde",
+    "outfit": "asymmetric black draped shirt, structured wide-leg pants with architectural details, chunky platform boots, statement geometric jewelry",
+    "style": "avant-garde fashion",
+    "vibe": "experimental and artistic",
+    "category": "Fashion/Editorial",
+    "occasions": ["fashion show", "art exhibition", "experimental editorial"]
+  },
+  "Coastal Grandma (55+)": {
+    "name": "Coastal Grandma (55+)",
+    "outfit": "oversized cream linen cardigan, white cotton t-shirt, wide-leg beige linen pants, tan leather loafers, straw tote bag, minimal gold jewelry",
+    "style": "coastal grandma",
+    "vibe": "relaxed elegance and effortless sophistication",
+    "category": "Mature/Casual",
+    "age_range": "55-75",
+    "occasions": ["beachside brunch", "casual gathering", "relaxed outdoor event"]
+  },
+  "Eclectic Grandpa (60+)": {
+    "name": "Eclectic Grandpa (60+)",
+    "outfit": "vintage argyle sweater vest over cream oxford shirt, wool wide-leg trousers in warm brown, comfortable suede loafers, classic leather belt, retro reading glasses on chain",
+    "style": "eclectic grandpa",
+    "vibe": "vintage charm and cozy nostalgia",
+    "category": "Mature/Casual",
+    "age_range": "60-80",
+    "occasions": ["library visit", "casual social", "comfortable everyday"]
+  },
+  "Soft Casual Comfort (50+)": {
+    "name": "Soft Casual Comfort (50+)",
+    "outfit": "merino wool crew neck sweater in soft gray, relaxed-fit cotton chinos with comfort waist, comfortable leather slip-on shoes, cashmere scarf in neutral tone, leather watch with large dial",
+    "style": "soft casual comfort",
+    "vibe": "comfortable dignity and approachable warmth",
+    "category": "Mature/Casual",
+    "age_range": "50-70",
+    "occasions": ["casual meeting", "shopping", "lunch with friends"]
+  },
+  "Garden Casual (60+)": {
+    "name": "Garden Casual (60+)",
+    "outfit": "lightweight cotton shirt in pastel check pattern, elastic-waist linen pants in olive green, comfortable walking shoes with arch support, wide-brim sun hat, canvas crossbody bag",
+    "style": "garden casual",
+    "vibe": "practical cheerfulness and outdoor ease",
+    "category": "Mature/Casual",
+    "age_range": "60-75",
+    "occasions": ["gardening", "outdoor market", "nature walk"]
+  },
+  "Refined Classic (55+)": {
+    "name": "Refined Classic (55+)",
+    "outfit": "navy wool blazer with soft structure, crisp white cotton shirt, gray wool dress pants with comfortable fit, brown leather loafers, silk pocket square in complementary tone",
+    "style": "refined classic",
+    "vibe": "timeless sophistication and quiet confidence",
+    "category": "Mature/Elegant",
+    "age_range": "55-75",
+    "occasions": ["professional event", "formal lunch", "cultural outing"]
+  },
+  "Elegant Mature (60+)": {
+    "name": "Elegant Mature (60+)",
+    "outfit": "cashmere turtleneck in burgundy, tailored wool trousers with elastic comfort waist, suede chelsea boots, wool blend overcoat, fine leather gloves",
+    "style": "elegant mature",
+    "vibe": "distinguished polish and graceful presence",
+    "category": "Mature/Elegant",
+    "age_range": "60-80",
+    "occasions": ["theater evening", "upscale dinner", "formal gathering"]
+  },
+  "Silver Sophistication (65+)": {
+    "name": "Silver Sophistication (65+)",
+    "outfit": "silk blend blouse in dove gray, high-waisted wool pants with wide leg and comfort fit, classic leather pumps with low heel, pearl earrings, structured leather handbag",
+    "style": "silver sophistication",
+    "vibe": "graceful refinement and ageless elegance",
+    "category": "Mature/Elegant",
+    "age_range": "65-80",
+    "occasions": ["special occasion", "elegant luncheon", "refined social event"]
+  },
+  "Active Senior (55+)": {
+    "name": "Active Senior (55+)",
+    "outfit": "moisture-wicking quarter-zip pullover in navy, comfortable stretch pants with elastic waist and side pockets, cushioned walking sneakers with arch support, lightweight windbreaker, sporty cap",
+    "style": "active senior",
+    "vibe": "energetic practicality and healthy lifestyle",
+    "category": "Mature/Active",
+    "age_range": "55-75",
+    "occasions": ["morning walk", "light exercise", "active outdoor"]
+  },
+  "Wellness Casual (60+)": {
+    "name": "Wellness Casual (60+)",
+    "outfit": "soft cotton henley shirt, relaxed joggers with comfort waistband, supportive walking shoes, zip-up hoodie in heather gray, water bottle holder bag",
+    "style": "wellness casual",
+    "vibe": "healthy comfort and mindful ease",
+    "category": "Mature/Active",
+    "age_range": "60-80",
+    "occasions": ["wellness center", "gentle yoga", "health-focused activity"]
+  },
+  "Mature Evening Elegant (65+)": {
+    "name": "Mature Evening Elegant (65+)",
+    "outfit": "silk blend cardigan with pearl buttons, fine merino turtleneck in charcoal, wool blend trousers with comfortable fit, leather dress shoes with cushioned sole, subtle gold jewelry",
+    "style": "mature evening elegant",
+    "vibe": "dignified grace and refined evening presence",
+    "category": "Mature/Evening",
+    "age_range": "65-80",
+    "occasions": ["evening concert", "formal dinner", "elegant celebration"]
+  }
+}
